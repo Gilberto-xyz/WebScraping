@@ -1,4 +1,4 @@
-![Title](webscraping.svg)
+![Title](webscraping.gif)
 
 ## Basicos del proyecto
 
@@ -51,4 +51,10 @@ Extraer la informacion puede ser una tarea tediosa, por lo que me webscrapping m
 
 ![Imagen de referencia](https://nancyfriedman.typepad.com/.a/6a00d8341c4f9453ef01a73dafb230970d-pi)
 
+## Herramientas
 
+BeautifulSoup:
+
+```terminal
+pip install beautifulsoup4
+```
