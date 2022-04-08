@@ -64,3 +64,11 @@ pip install beautifulsoup4
 Puedes explorar todo el proceso y codigo en el siguiente Notebook: [WebScraping Lab.ipynb](https://github.com/GilbertoNavaMarcos/WebScraping/blob/main/Webscraping%20Lab.ipynb)
 
 ![Imagen de referencia](preview.png)
+
+## Practica
+
+Un ejemplo rapido con la informacion de las temporadas de Silicon Valley.
+
+Puedes ver el Notebook: [Silicon_Valley.ipynb](https://github.com/GilbertoNavaMarcos/WebScraping/blob/main/Silicon_Valley.ipynb)
+
+![Imagen de referencia](piedpiper.png)
