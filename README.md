@@ -62,3 +62,5 @@ pip install beautifulsoup4
 ## Ejemplo
 
 Puedes explorar todo el proceso y codigo en el siguiente Notebook: [WebScraping Lab.ipynb](https://github.com/GilbertoNavaMarcos/WebScraping/blob/main/Webscraping%20Lab.ipynb)
+
+![Imagen de referencia](preview.png)
